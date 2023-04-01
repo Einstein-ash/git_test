@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 name is thor,no 
+=======
+The name is thor
+>>>>>>> 20e427026545a0eb94cbf3adf8960f797cafe83a
